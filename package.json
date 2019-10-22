@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RodBromberg/RodBromberg.github.io/issues"
   },
-  "homepage": "https://github.com/RodBromberg/RodBromberg.github.io#readme"
+  "homepage": "https://github.com/RodBromberg/RodBromberg.github.io#readme",
+  "dependencies": {
+    "isotope-layout": "^3.0.6"
+  }
 }
