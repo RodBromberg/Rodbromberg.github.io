@@ -339,49 +339,6 @@ body {
 }
 
 
-/* .container {
-    overflow: hidden;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    justify-content: center;
-} */
-
-.filterDiv {
-    display: none;
-}
-
-
-/* The "show" class is added to the filtered elements */
-
-.show {
-    display: block;
-}
-
-*/
-/* Style the buttons */
-
-
-/* Add a light grey background on mouse-over */
-
-
-/* .btn:active {
-    background-color: black;
-} */
-
-ul li {
-    color: #636363
-}
-
-.btn-colors {
-    color: white;
-    background: #636e72
-}
-
-
-/* Add a dark background to the active button */
-
-
 /* red #b33939; */
 
 
