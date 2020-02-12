@@ -342,6 +342,10 @@ body {
     padding: 30px 5px;
 }
 
+.description-tag {
+    color: black;
+}
+
 .copyrightSection p {
     margin: 0;
 }
